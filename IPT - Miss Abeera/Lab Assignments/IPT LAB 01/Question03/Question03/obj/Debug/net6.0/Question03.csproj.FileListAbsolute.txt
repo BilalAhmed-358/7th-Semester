@@ -1,0 +1,14 @@
+C:\Users\Bilal\source\repos\Question03\Question03\bin\Debug\net6.0\Question03.exe
+C:\Users\Bilal\source\repos\Question03\Question03\bin\Debug\net6.0\Question03.deps.json
+C:\Users\Bilal\source\repos\Question03\Question03\bin\Debug\net6.0\Question03.runtimeconfig.json
+C:\Users\Bilal\source\repos\Question03\Question03\bin\Debug\net6.0\Question03.dll
+C:\Users\Bilal\source\repos\Question03\Question03\bin\Debug\net6.0\Question03.pdb
+C:\Users\Bilal\source\repos\Question03\Question03\obj\Debug\net6.0\Question03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilal\source\repos\Question03\Question03\obj\Debug\net6.0\Question03.AssemblyInfoInputs.cache
+C:\Users\Bilal\source\repos\Question03\Question03\obj\Debug\net6.0\Question03.AssemblyInfo.cs
+C:\Users\Bilal\source\repos\Question03\Question03\obj\Debug\net6.0\Question03.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\source\repos\Question03\Question03\obj\Debug\net6.0\Question03.dll
+C:\Users\Bilal\source\repos\Question03\Question03\obj\Debug\net6.0\refint\Question03.dll
+C:\Users\Bilal\source\repos\Question03\Question03\obj\Debug\net6.0\Question03.pdb
+C:\Users\Bilal\source\repos\Question03\Question03\obj\Debug\net6.0\Question03.genruntimeconfig.cache
+C:\Users\Bilal\source\repos\Question03\Question03\obj\Debug\net6.0\ref\Question03.dll

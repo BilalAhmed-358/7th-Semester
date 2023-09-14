@@ -1,0 +1,5 @@
+C:\Users\Bilal\Desktop\IPT-Lab-1.exe
+C:\Users\Bilal\Desktop\IPT-Lab-1.dll
+C:\Users\Bilal\Desktop\IPT-Lab-1.deps.json
+C:\Users\Bilal\Desktop\IPT-Lab-1.runtimeconfig.json
+C:\Users\Bilal\Desktop\IPT-Lab-1.pdb
