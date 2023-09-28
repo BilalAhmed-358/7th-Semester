@@ -1,0 +1,20 @@
+c:\users\mfazal\documents\visual studio 2015\Projects\Week03\XMLReader4\bin\Debug\XMLReader4.exe.config
+c:\users\mfazal\documents\visual studio 2015\Projects\Week03\XMLReader4\bin\Debug\XMLReader4.exe
+c:\users\mfazal\documents\visual studio 2015\Projects\Week03\XMLReader4\bin\Debug\XMLReader4.pdb
+c:\users\mfazal\documents\visual studio 2015\Projects\Week03\XMLReader4\obj\Debug\XMLReader4.Form1.resources
+c:\users\mfazal\documents\visual studio 2015\Projects\Week03\XMLReader4\obj\Debug\XMLReader4.Properties.Resources.resources
+c:\users\mfazal\documents\visual studio 2015\Projects\Week03\XMLReader4\obj\Debug\XMLReader4.csproj.GenerateResource.Cache
+c:\users\mfazal\documents\visual studio 2015\Projects\Week03\XMLReader4\obj\Debug\XMLReader4.exe
+c:\users\mfazal\documents\visual studio 2015\Projects\Week03\XMLReader4\obj\Debug\XMLReader4.pdb
+C:\Users\mfazal\OneDrive\FAST\Spring 2017\IPT\Lectures\Week03\Week03Code1\Code\XMLReader4\bin\Debug\XMLReader4.exe.config
+C:\Users\mfazal\OneDrive\FAST\Spring 2017\IPT\Lectures\Week03\Week03Code1\Code\XMLReader4\obj\Debug\XMLReader4.exe
+C:\Users\mfazal\OneDrive\FAST\Spring 2017\IPT\Lectures\Week03\Week03Code1\Code\XMLReader4\obj\Debug\XMLReader4.pdb
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\Week04-XML\Code\XMLReader4\bin\Debug\XMLReader4.exe.config
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\Week04-XML\Code\XMLReader4\bin\Debug\XMLReader4.exe
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\Week04-XML\Code\XMLReader4\bin\Debug\XMLReader4.pdb
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\Week04-XML\Code\XMLReader4\obj\Debug\XMLReader4.Form1.resources
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\Week04-XML\Code\XMLReader4\obj\Debug\XMLReader4.Properties.Resources.resources
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\Week04-XML\Code\XMLReader4\obj\Debug\XMLReader4.csproj.GenerateResource.cache
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\Week04-XML\Code\XMLReader4\obj\Debug\XMLReader4.csproj.CoreCompileInputs.cache
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\Week04-XML\Code\XMLReader4\obj\Debug\XMLReader4.exe
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\Week04-XML\Code\XMLReader4\obj\Debug\XMLReader4.pdb

@@ -1,0 +1,8 @@
+c:\users\mfazal\documents\visual studio 2015\Projects\Week03\XMLParser3\obj\Debug\XMLParser3.Form1.resources
+c:\users\mfazal\documents\visual studio 2015\Projects\Week03\XMLParser3\obj\Debug\XMLParser3.Properties.Resources.resources
+c:\users\mfazal\documents\visual studio 2015\Projects\Week03\XMLParser3\obj\Debug\XMLParser3.csproj.GenerateResource.Cache
+c:\users\mfazal\documents\visual studio 2015\Projects\Week03\XMLParser3\bin\Debug\XMLParser3.exe.config
+c:\users\mfazal\documents\visual studio 2015\Projects\Week03\XMLParser3\bin\Debug\XMLParser3.exe
+c:\users\mfazal\documents\visual studio 2015\Projects\Week03\XMLParser3\bin\Debug\XMLParser3.pdb
+c:\users\mfazal\documents\visual studio 2015\Projects\Week03\XMLParser3\obj\Debug\XMLParser3.exe
+c:\users\mfazal\documents\visual studio 2015\Projects\Week03\XMLParser3\obj\Debug\XMLParser3.pdb

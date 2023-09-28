@@ -1,0 +1,22 @@
+c:\users\mfazal\documents\visual studio 2015\Projects\Week03\XMLReader\bin\Debug\XMLReader.exe.config
+c:\users\mfazal\documents\visual studio 2015\Projects\Week03\XMLReader\bin\Debug\XMLReader.exe
+c:\users\mfazal\documents\visual studio 2015\Projects\Week03\XMLReader\bin\Debug\XMLReader.pdb
+c:\users\mfazal\documents\visual studio 2015\Projects\Week03\XMLReader\obj\Debug\XMLReader.csprojResolveAssemblyReference.cache
+c:\users\mfazal\documents\visual studio 2015\Projects\Week03\XMLReader\obj\Debug\XMLReader.Form1.resources
+c:\users\mfazal\documents\visual studio 2015\Projects\Week03\XMLReader\obj\Debug\XMLReader.Properties.Resources.resources
+c:\users\mfazal\documents\visual studio 2015\Projects\Week03\XMLReader\obj\Debug\XMLReader.csproj.GenerateResource.Cache
+c:\users\mfazal\documents\visual studio 2015\Projects\Week03\XMLReader\obj\Debug\XMLReader.exe
+c:\users\mfazal\documents\visual studio 2015\Projects\Week03\XMLReader\obj\Debug\XMLReader.pdb
+C:\Users\mfazal\OneDrive\FAST\Spring 2017\IPT\Lectures\Week03\Week03Code1\Code\XMLReader\bin\Debug\XMLReader.exe.config
+C:\Users\mfazal\OneDrive\FAST\Spring 2017\IPT\Lectures\Week03\Week03Code1\Code\XMLReader\obj\Debug\XMLReader.exe
+C:\Users\mfazal\OneDrive\FAST\Spring 2017\IPT\Lectures\Week03\Week03Code1\Code\XMLReader\obj\Debug\XMLReader.pdb
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\Week04-XML\Code\XMLReader\bin\Debug\XMLReader.exe.config
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\Week04-XML\Code\XMLReader\bin\Debug\XMLReader.exe
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\Week04-XML\Code\XMLReader\bin\Debug\XMLReader.pdb
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\Week04-XML\Code\XMLReader\obj\Debug\XMLReader.csproj.AssemblyReference.cache
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\Week04-XML\Code\XMLReader\obj\Debug\XMLReader.Form1.resources
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\Week04-XML\Code\XMLReader\obj\Debug\XMLReader.Properties.Resources.resources
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\Week04-XML\Code\XMLReader\obj\Debug\XMLReader.csproj.GenerateResource.cache
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\Week04-XML\Code\XMLReader\obj\Debug\XMLReader.csproj.CoreCompileInputs.cache
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\Week04-XML\Code\XMLReader\obj\Debug\XMLReader.exe
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\Week04-XML\Code\XMLReader\obj\Debug\XMLReader.pdb

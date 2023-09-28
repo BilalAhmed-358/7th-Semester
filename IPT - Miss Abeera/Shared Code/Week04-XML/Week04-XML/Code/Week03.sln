@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLReader", "XMLReader\XMLReader.csproj", "{170DE815-A285-4805-A852-E562320EFDB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLReader2", "XMLReader2\XMLReader2.csproj", "{1C967D78-C2AC-469B-B8BD-B14D7C5C8F81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLReader3", "XMLParser3\XMLReader3.csproj", "{802202AE-B96A-49B3-B07B-BAF1F5D4E8EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLReader4", "XMLReader4\XMLReader4.csproj", "{A6292F5A-C8BE-4EDD-ABDA-E396235B7114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLSerializer", "XMLSerializer\XMLSerializer.csproj", "{D5ECE457-0326-4490-B761-2B998DA36DF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{170DE815-A285-4805-A852-E562320EFDB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{170DE815-A285-4805-A852-E562320EFDB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{170DE815-A285-4805-A852-E562320EFDB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{170DE815-A285-4805-A852-E562320EFDB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C967D78-C2AC-469B-B8BD-B14D7C5C8F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C967D78-C2AC-469B-B8BD-B14D7C5C8F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C967D78-C2AC-469B-B8BD-B14D7C5C8F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C967D78-C2AC-469B-B8BD-B14D7C5C8F81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{802202AE-B96A-49B3-B07B-BAF1F5D4E8EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802202AE-B96A-49B3-B07B-BAF1F5D4E8EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802202AE-B96A-49B3-B07B-BAF1F5D4E8EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802202AE-B96A-49B3-B07B-BAF1F5D4E8EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6292F5A-C8BE-4EDD-ABDA-E396235B7114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6292F5A-C8BE-4EDD-ABDA-E396235B7114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6292F5A-C8BE-4EDD-ABDA-E396235B7114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6292F5A-C8BE-4EDD-ABDA-E396235B7114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5ECE457-0326-4490-B761-2B998DA36DF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5ECE457-0326-4490-B761-2B998DA36DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5ECE457-0326-4490-B761-2B998DA36DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5ECE457-0326-4490-B761-2B998DA36DF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
