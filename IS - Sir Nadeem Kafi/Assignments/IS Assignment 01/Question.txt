@@ -1,0 +1,18 @@
+Instructions:
+
+    No marks will be given even if any one of the following minimum requirements is not implemented adequately.
+    Submit before 4th Oct, 2023 11:59 pm. The buffer period is given to cover emergencies. 
+    ZERO points will be assigned after 8th Oct, 2023 11:59 pm without notice.
+
+Task:
+
+    Write a Google Colab notebook to encrypt/decrypt input data using DES, AES, and RSA algorithms with timings.
+    You need to encrypt three types of files: text, exe, and zip. 
+    The size of each type should be: small (< 1MB), medium (up to 10MB), and large (>= 50MB)
+
+Submission:
+
+    Google Colab notebook link (with your FAST-NU ID account).
+    Snapshot of the print-out of Colab code with handwritten comments.
+    .xlsx file with encryption and decryption timing data and comparison graphs
+    .docx file (one side of one page only) with a single comparative graph and explanation of the comparison
