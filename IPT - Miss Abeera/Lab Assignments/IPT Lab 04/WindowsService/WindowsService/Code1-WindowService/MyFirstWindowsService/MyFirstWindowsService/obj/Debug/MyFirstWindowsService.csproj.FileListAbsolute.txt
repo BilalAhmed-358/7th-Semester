@@ -1,0 +1,96 @@
+c:\users\mfazal\documents\visual studio 2015\Projects\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe.config
+c:\users\mfazal\documents\visual studio 2015\Projects\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+c:\users\mfazal\documents\visual studio 2015\Projects\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.pdb
+c:\users\mfazal\documents\visual studio 2015\Projects\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csprojResolveAssemblyReference.cache
+c:\users\mfazal\documents\visual studio 2015\Projects\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.TestService.resources
+c:\users\mfazal\documents\visual studio 2015\Projects\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.GenerateResource.Cache
+c:\users\mfazal\documents\visual studio 2015\Projects\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.exe
+c:\users\mfazal\documents\visual studio 2015\Projects\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.pdb
+c:\users\mfazal\documents\visual studio 2015\Projects\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.ProjectInstaller.resources
+c:\users\mfazal\documents\visual studio 2015\Projects\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\System.Net.Http.dll
+c:\users\mfazal\documents\visual studio 2015\Projects\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\System.Net.Http.xml
+C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code1\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe.config
+C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code1\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code1\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.pdb
+C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code1\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\System.Net.Http.dll
+C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code1\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\System.Net.Http.xml
+C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code1\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csprojAssemblyReference.cache
+C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code1\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.ProjectInstaller.resources
+C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code1\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.TestService.resources
+C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code1\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.GenerateResource.cache
+C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code1\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code1\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.CopyComplete
+C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code1\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.exe
+C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code1\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.pdb
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe.config
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.pdb
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\System.Net.Http.dll
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\System.Net.Http.xml
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csprojAssemblyReference.cache
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.ProjectInstaller.resources
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.TestService.resources
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.GenerateResource.cache
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.CopyComplete
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.exe
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.pdb
+C:\Users\mfazal\OneDrive\Teaching\FAST\2020 - 1-Spring\IPT-2020-S\Lectures\Week05\Code\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe.config
+C:\Users\mfazal\OneDrive\Teaching\FAST\2020 - 1-Spring\IPT-2020-S\Lectures\Week05\Code\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+C:\Users\mfazal\OneDrive\Teaching\FAST\2020 - 1-Spring\IPT-2020-S\Lectures\Week05\Code\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.pdb
+C:\Users\mfazal\OneDrive\Teaching\FAST\2020 - 1-Spring\IPT-2020-S\Lectures\Week05\Code\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\System.Net.Http.dll
+C:\Users\mfazal\OneDrive\Teaching\FAST\2020 - 1-Spring\IPT-2020-S\Lectures\Week05\Code\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\System.Net.Http.xml
+C:\Users\mfazal\OneDrive\Teaching\FAST\2020 - 1-Spring\IPT-2020-S\Lectures\Week05\Code\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csprojAssemblyReference.cache
+C:\Users\mfazal\OneDrive\Teaching\FAST\2020 - 1-Spring\IPT-2020-S\Lectures\Week05\Code\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.ProjectInstaller.resources
+C:\Users\mfazal\OneDrive\Teaching\FAST\2020 - 1-Spring\IPT-2020-S\Lectures\Week05\Code\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.TestService.resources
+C:\Users\mfazal\OneDrive\Teaching\FAST\2020 - 1-Spring\IPT-2020-S\Lectures\Week05\Code\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.GenerateResource.cache
+C:\Users\mfazal\OneDrive\Teaching\FAST\2020 - 1-Spring\IPT-2020-S\Lectures\Week05\Code\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\mfazal\OneDrive\Teaching\FAST\2020 - 1-Spring\IPT-2020-S\Lectures\Week05\Code\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.CopyComplete
+C:\Users\mfazal\OneDrive\Teaching\FAST\2020 - 1-Spring\IPT-2020-S\Lectures\Week05\Code\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.exe
+C:\Users\mfazal\OneDrive\Teaching\FAST\2020 - 1-Spring\IPT-2020-S\Lectures\Week05\Code\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.pdb
+C:\Users\mfazal\OneDrive\Teaching\FAST\2020 - 1-Spring\IPT-2020-S\Lectures\Week05\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe.config
+C:\Users\mfazal\OneDrive\Teaching\FAST\2020 - 1-Spring\IPT-2020-S\Lectures\Week05\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+C:\Users\mfazal\OneDrive\Teaching\FAST\2020 - 1-Spring\IPT-2020-S\Lectures\Week05\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.pdb
+C:\Users\mfazal\OneDrive\Teaching\FAST\2020 - 1-Spring\IPT-2020-S\Lectures\Week05\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\System.Net.Http.dll
+C:\Users\mfazal\OneDrive\Teaching\FAST\2020 - 1-Spring\IPT-2020-S\Lectures\Week05\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\System.Net.Http.xml
+C:\Users\mfazal\OneDrive\Teaching\FAST\2020 - 1-Spring\IPT-2020-S\Lectures\Week05\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csprojAssemblyReference.cache
+C:\Users\mfazal\OneDrive\Teaching\FAST\2020 - 1-Spring\IPT-2020-S\Lectures\Week05\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.ProjectInstaller.resources
+C:\Users\mfazal\OneDrive\Teaching\FAST\2020 - 1-Spring\IPT-2020-S\Lectures\Week05\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.TestService.resources
+C:\Users\mfazal\OneDrive\Teaching\FAST\2020 - 1-Spring\IPT-2020-S\Lectures\Week05\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.GenerateResource.cache
+C:\Users\mfazal\OneDrive\Teaching\FAST\2020 - 1-Spring\IPT-2020-S\Lectures\Week05\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\mfazal\OneDrive\Teaching\FAST\2020 - 1-Spring\IPT-2020-S\Lectures\Week05\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.CopyComplete
+C:\Users\mfazal\OneDrive\Teaching\FAST\2020 - 1-Spring\IPT-2020-S\Lectures\Week05\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.exe
+C:\Users\mfazal\OneDrive\Teaching\FAST\2020 - 1-Spring\IPT-2020-S\Lectures\Week05\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.pdb
+C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe.config
+C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.pdb
+C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\System.Net.Http.dll
+C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\System.Net.Http.xml
+C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csprojAssemblyReference.cache
+C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.ProjectInstaller.resources
+C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.TestService.resources
+C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.GenerateResource.cache
+C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.CopyComplete
+C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.exe
+C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.pdb
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe.config
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.pdb
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.AssemblyReference.cache
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.ProjectInstaller.resources
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.TestService.resources
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.GenerateResource.cache
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.CoreCompileInputs.cache
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.exe
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.pdb
+C:\Users\Bilal\Desktop\IPT Lab 04\WindowsService\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe.config
+C:\Users\Bilal\Desktop\IPT Lab 04\WindowsService\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+C:\Users\Bilal\Desktop\IPT Lab 04\WindowsService\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.pdb
+C:\Users\Bilal\Desktop\IPT Lab 04\WindowsService\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.AssemblyReference.cache
+C:\Users\Bilal\Desktop\IPT Lab 04\WindowsService\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.ProjectInstaller.resources
+C:\Users\Bilal\Desktop\IPT Lab 04\WindowsService\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.TestService.resources
+C:\Users\Bilal\Desktop\IPT Lab 04\WindowsService\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.GenerateResource.cache
+C:\Users\Bilal\Desktop\IPT Lab 04\WindowsService\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\Desktop\IPT Lab 04\WindowsService\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.exe
+C:\Users\Bilal\Desktop\IPT Lab 04\WindowsService\WindowsService\Code1-WindowService\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.pdb

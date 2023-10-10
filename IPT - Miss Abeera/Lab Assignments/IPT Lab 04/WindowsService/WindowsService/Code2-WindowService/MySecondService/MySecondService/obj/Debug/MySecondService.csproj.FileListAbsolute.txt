@@ -1,0 +1,43 @@
+c:\users\mfazal\documents\visual studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe.config
+c:\users\mfazal\documents\visual studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+c:\users\mfazal\documents\visual studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.pdb
+c:\users\mfazal\documents\visual studio 2015\Projects\MySecondService\MySecondService\obj\Debug\MySecondService.ProjectInstaller.resources
+c:\users\mfazal\documents\visual studio 2015\Projects\MySecondService\MySecondService\obj\Debug\MySecondService.csproj.GenerateResource.Cache
+c:\users\mfazal\documents\visual studio 2015\Projects\MySecondService\MySecondService\obj\Debug\MySecondService.exe
+c:\users\mfazal\documents\visual studio 2015\Projects\MySecondService\MySecondService\obj\Debug\MySecondService.pdb
+c:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\obj\Debug\MySecondService.csprojResolveAssemblyReference.cache
+c:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\System.Net.Http.dll
+c:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\System.Net.Http.xml
+C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\obj\Debug\MySecondService.csprojAssemblyReference.cache
+C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\obj\Debug\MySecondService.ProjectInstaller.resources
+C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\obj\Debug\MySecondService.csproj.GenerateResource.cache
+C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\obj\Debug\MySecondService.csproj.CoreCompileInputs.cache
+C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\obj\Debug\MySecondService.exe
+C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\obj\Debug\MySecondService.pdb
+C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe.config
+C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.pdb
+C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\System.Net.Http.dll
+C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\System.Net.Http.xml
+C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\obj\Debug\MySecondService.csproj.CopyComplete
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe.config
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.pdb
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\System.Net.Http.dll
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\System.Net.Http.xml
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\obj\Debug\MySecondService.csprojAssemblyReference.cache
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\obj\Debug\MySecondService.ProjectInstaller.resources
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\obj\Debug\MySecondService.csproj.GenerateResource.cache
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\obj\Debug\MySecondService.csproj.CoreCompileInputs.cache
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\obj\Debug\MySecondService.csproj.CopyComplete
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\obj\Debug\MySecondService.exe
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\obj\Debug\MySecondService.pdb
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe.config
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.pdb
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\obj\Debug\MySecondService.csproj.AssemblyReference.cache
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\obj\Debug\MySecondService.ProjectInstaller.resources
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\obj\Debug\MySecondService.csproj.GenerateResource.cache
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\obj\Debug\MySecondService.csproj.CoreCompileInputs.cache
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\obj\Debug\MySecondService.exe
+D:\IPT Material\IPT 2021-Shared\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\obj\Debug\MySecondService.pdb

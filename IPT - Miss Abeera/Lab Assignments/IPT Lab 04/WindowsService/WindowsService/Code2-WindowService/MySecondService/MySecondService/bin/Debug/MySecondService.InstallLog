@@ -1,0 +1,472 @@
+﻿Installing assembly 'C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+   logfile = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+Installing service FileCheckerService...
+Service FileCheckerService has been successfully installed.
+Creating EventLog source FileCheckerService in log Application...
+Committing assembly 'C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+   logfile = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+Uninstalling assembly 'C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+   logfile = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+Removing EventLog source FileCheckerService.
+Service FileCheckerService is being removed from the system...
+Service FileCheckerService was successfully removed from the system.
+Installing assembly 'C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+   logfile = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+Installing service FileCheckerService...
+Service FileCheckerService has been successfully installed.
+Creating EventLog source FileCheckerService in log Application...
+Committing assembly 'C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+   logfile = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+Uninstalling assembly 'C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+   logfile = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+Removing EventLog source FileCheckerService.
+Service FileCheckerService is being removed from the system...
+Service FileCheckerService was successfully removed from the system.
+Installing assembly 'C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+   logfile = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+Installing service FileCheckerService...
+Service FileCheckerService has been successfully installed.
+Creating EventLog source FileCheckerService in log Application...
+Committing assembly 'C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+   logfile = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+Uninstalling assembly 'C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+   logfile = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+Removing EventLog source FileCheckerService.
+Service FileCheckerService is being removed from the system...
+Service FileCheckerService was successfully removed from the system.
+Installing assembly 'C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+   logfile = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+Installing service FileCheckerService...
+Service FileCheckerService has been successfully installed.
+Creating EventLog source FileCheckerService in log Application...
+Committing assembly 'C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+   logfile = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+Installing assembly 'C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+   logfile = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+Installing service FileCheckerService...
+Creating EventLog source FileCheckerService in log Application...
+Rolling back assembly 'C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+   logfile = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+Restoring event log to previous state for source FileCheckerService.
+Uninstalling assembly 'C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+   logfile = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+Removing EventLog source FileCheckerService.
+Service FileCheckerService is being removed from the system...
+Service FileCheckerService was successfully removed from the system.
+Installing assembly 'C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+   logfile = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+Installing service FileCheckerService...
+Service FileCheckerService has been successfully installed.
+Creating EventLog source FileCheckerService in log Application...
+Committing assembly 'C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+   logfile = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+Uninstalling assembly 'C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+   logfile = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+Removing EventLog source FileCheckerService.
+Service FileCheckerService is being removed from the system...
+Service FileCheckerService was successfully removed from the system.
+Attempt to stop service FileCheckerService.
+Installing assembly 'C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+   logfile = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+Installing service FileCheckerService...
+Service FileCheckerService has been successfully installed.
+Creating EventLog source FileCheckerService in log Application...
+Committing assembly 'C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+   logfile = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+Installing assembly 'C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+   logfile = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+Installing service FileCheckerService...
+Creating EventLog source FileCheckerService in log Application...
+Rolling back assembly 'C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+   logfile = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+Restoring event log to previous state for source FileCheckerService.
+Uninstalling assembly 'C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+   logfile = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+Removing EventLog source FileCheckerService.
+Service FileCheckerService is being removed from the system...
+Service FileCheckerService was successfully removed from the system.
+Installing assembly 'C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+   logfile = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+Installing service FileCheckerService...
+Service FileCheckerService has been successfully installed.
+Creating EventLog source FileCheckerService in log Application...
+Committing assembly 'C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+   logfile = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+Uninstalling assembly 'C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+   logfile = C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+Removing EventLog source FileCheckerService.
+Service FileCheckerService is being removed from the system...
+Service FileCheckerService was successfully removed from the system.
+Installing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Installing service FileCheckerService...
+Service FileCheckerService has been successfully installed.
+Creating EventLog source FileCheckerService in log Application...
+Committing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Uninstalling assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Removing EventLog source FileCheckerService.
+Service FileCheckerService is being removed from the system...
+Service FileCheckerService was successfully removed from the system.
+Installing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Installing service FileCheckerService...
+Service FileCheckerService has been successfully installed.
+Creating EventLog source FileCheckerService in log Application...
+Committing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Uninstalling assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Removing EventLog source FileCheckerService.
+Service FileCheckerService is being removed from the system...
+Service FileCheckerService was successfully removed from the system.
+Installing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Installing service FileCheckerService...
+Service FileCheckerService has been successfully installed.
+Creating EventLog source FileCheckerService in log Application...
+Committing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Uninstalling assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Removing EventLog source FileCheckerService.
+Service FileCheckerService is being removed from the system...
+Service FileCheckerService was successfully removed from the system.
+Attempt to stop service FileCheckerService.
+Installing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Installing service FileCheckerService...
+Service FileCheckerService has been successfully installed.
+Creating EventLog source FileCheckerService in log Application...
+Committing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Uninstalling assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Removing EventLog source FileCheckerService.
+Service FileCheckerService is being removed from the system...
+Service FileCheckerService was successfully removed from the system.
+Installing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Installing service FileCheckerService...
+Service FileCheckerService has been successfully installed.
+Creating EventLog source FileCheckerService in log Application...
+Committing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Uninstalling assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Removing EventLog source FileCheckerService.
+Service FileCheckerService is being removed from the system...
+Service FileCheckerService was successfully removed from the system.
+Installing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Installing service FileCheckerService...
+Service FileCheckerService has been successfully installed.
+Creating EventLog source FileCheckerService in log Application...
+Committing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Uninstalling assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Removing EventLog source FileCheckerService.
+Service FileCheckerService is being removed from the system...
+Service FileCheckerService was successfully removed from the system.
+Installing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Installing service FileCheckerService...
+Service FileCheckerService has been successfully installed.
+Creating EventLog source FileCheckerService in log Application...
+Committing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Uninstalling assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Removing EventLog source FileCheckerService.
+Service FileCheckerService is being removed from the system...
+Service FileCheckerService was successfully removed from the system.
+Attempt to stop service FileCheckerService.
+Installing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Installing service FileCheckerService...
+Service FileCheckerService has been successfully installed.
+Creating EventLog source FileCheckerService in log Application...
+Committing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Uninstalling assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Removing EventLog source FileCheckerService.
+Service FileCheckerService is being removed from the system...
+Service FileCheckerService was successfully removed from the system.
+Installing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Installing service FileCheckerService...
+Service FileCheckerService has been successfully installed.
+Creating EventLog source FileCheckerService in log Application...
+Committing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Uninstalling assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Removing EventLog source FileCheckerService.
+Service FileCheckerService is being removed from the system...
+Service FileCheckerService was successfully removed from the system.
+Attempt to stop service FileCheckerService.
+Installing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Installing service FileCheckerService...
+Service FileCheckerService has been successfully installed.
+Creating EventLog source FileCheckerService in log Application...
+Committing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Uninstalling assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Removing EventLog source FileCheckerService.
+Service FileCheckerService is being removed from the system...
+Service FileCheckerService was successfully removed from the system.
+Installing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Installing service FileCheckerService...
+Service FileCheckerService has been successfully installed.
+Creating EventLog source FileCheckerService in log Application...
+Committing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Uninstalling assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Removing EventLog source FileCheckerService.
+Service FileCheckerService is being removed from the system...
+Service FileCheckerService was successfully removed from the system.
+Installing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Installing service FileCheckerService...
+Service FileCheckerService has been successfully installed.
+Creating EventLog source FileCheckerService in log Application...
+Committing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Uninstalling assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Removing EventLog source FileCheckerService.
+Service FileCheckerService is being removed from the system...
+Service FileCheckerService was successfully removed from the system.
+Attempt to stop service FileCheckerService.
+Installing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Installing service FileCheckerService...
+Service FileCheckerService has been successfully installed.
+Creating EventLog source FileCheckerService in log Application...
+Committing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Uninstalling assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Removing EventLog source FileCheckerService.
+Service FileCheckerService is being removed from the system...
+Service FileCheckerService was successfully removed from the system.
+Installing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Installing service FileCheckerService...
+Service FileCheckerService has been successfully installed.
+Creating EventLog source FileCheckerService in log Application...
+Committing assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Uninstalling assembly 'C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog
+   assemblypath = C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe
+Removing EventLog source FileCheckerService.
+Service FileCheckerService is being removed from the system...
+Service FileCheckerService was successfully removed from the system.

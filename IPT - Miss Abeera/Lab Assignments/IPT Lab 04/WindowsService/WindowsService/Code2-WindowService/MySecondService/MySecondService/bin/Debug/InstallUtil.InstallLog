@@ -1,0 +1,475 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\Documents\Visual Studio 2015\Projects\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\Fall 2018\IPT\Lectures\Week03\Code\Code2\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - Spring\IPT\Lectures\Week04\Codes\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.exe assembly's progress.
+The file is located at C:\Users\mfazal\OneDrive\Teaching\FAST\2021 - 1-Spring\IPT-2021-S\Lectures\Week04\Code\WindowsService\Code2-WindowService\MySecondService\MySecondService\bin\Debug\MySecondService.InstallLog.
+
+The uninstall has completed.
