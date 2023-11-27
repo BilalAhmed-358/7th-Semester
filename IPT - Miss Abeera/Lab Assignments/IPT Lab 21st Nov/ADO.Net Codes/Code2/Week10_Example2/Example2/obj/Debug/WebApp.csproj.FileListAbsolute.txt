@@ -1,0 +1,19 @@
+c:\users\mfazal\documents\visual studio 2015\Projects\Week10_Example2\Example2\bin\Example2.dll.config
+c:\users\mfazal\documents\visual studio 2015\Projects\Week10_Example2\Example2\bin\Example2.dll
+c:\users\mfazal\documents\visual studio 2015\Projects\Week10_Example2\Example2\bin\Example2.pdb
+c:\users\mfazal\documents\visual studio 2015\Projects\Week10_Example2\Example2\obj\Debug\Example2.dll
+c:\users\mfazal\documents\visual studio 2015\Projects\Week10_Example2\Example2\obj\Debug\Example2.pdb
+c:\users\mfazal\documents\visual studio 2015\Projects\Week10_Example2\Example2\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - 2-Fall\IPT\Lectures\Week10\ADO.Net Codes\Code2\Week10_Example2\Example2\bin\Example2.dll.config
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - 2-Fall\IPT\Lectures\Week10\ADO.Net Codes\Code2\Week10_Example2\Example2\bin\Example2.dll
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - 2-Fall\IPT\Lectures\Week10\ADO.Net Codes\Code2\Week10_Example2\Example2\bin\Example2.pdb
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - 2-Fall\IPT\Lectures\Week10\ADO.Net Codes\Code2\Week10_Example2\Example2\obj\Debug\WebApp.csprojAssemblyReference.cache
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - 2-Fall\IPT\Lectures\Week10\ADO.Net Codes\Code2\Week10_Example2\Example2\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - 2-Fall\IPT\Lectures\Week10\ADO.Net Codes\Code2\Week10_Example2\Example2\obj\Debug\Example2.dll
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - 2-Fall\IPT\Lectures\Week10\ADO.Net Codes\Code2\Week10_Example2\Example2\obj\Debug\Example2.pdb
+C:\Users\Bilal\Desktop\IPT Lab 21st Nov\ADO.Net Codes\Code2\Week10_Example2\Example2\bin\Example2.dll.config
+C:\Users\Bilal\Desktop\IPT Lab 21st Nov\ADO.Net Codes\Code2\Week10_Example2\Example2\bin\Example2.dll
+C:\Users\Bilal\Desktop\IPT Lab 21st Nov\ADO.Net Codes\Code2\Week10_Example2\Example2\bin\Example2.pdb
+C:\Users\Bilal\Desktop\IPT Lab 21st Nov\ADO.Net Codes\Code2\Week10_Example2\Example2\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\Desktop\IPT Lab 21st Nov\ADO.Net Codes\Code2\Week10_Example2\Example2\obj\Debug\Example2.dll
+C:\Users\Bilal\Desktop\IPT Lab 21st Nov\ADO.Net Codes\Code2\Week10_Example2\Example2\obj\Debug\Example2.pdb

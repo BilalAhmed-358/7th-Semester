@@ -1,0 +1,20 @@
+c:\users\mfazal\documents\visual studio 2015\Projects\Week10_Example2\WebService\bin\WebService.dll.config
+c:\users\mfazal\documents\visual studio 2015\Projects\Week10_Example2\WebService\bin\WebService.dll
+c:\users\mfazal\documents\visual studio 2015\Projects\Week10_Example2\WebService\bin\WebService.pdb
+c:\users\mfazal\documents\visual studio 2015\Projects\Week10_Example2\WebService\obj\Debug\WebService.dll
+c:\users\mfazal\documents\visual studio 2015\Projects\Week10_Example2\WebService\obj\Debug\WebService.pdb
+c:\users\mfazal\documents\visual studio 2015\Projects\Week10_Example2\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - 2-Fall\IPT\Lectures\Week10\ADO.Net Codes\Code2\Week10_Example2\WebService\bin\WebService.dll.config
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - 2-Fall\IPT\Lectures\Week10\ADO.Net Codes\Code2\Week10_Example2\WebService\bin\WebService.dll
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - 2-Fall\IPT\Lectures\Week10\ADO.Net Codes\Code2\Week10_Example2\WebService\bin\WebService.pdb
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - 2-Fall\IPT\Lectures\Week10\ADO.Net Codes\Code2\Week10_Example2\WebService\obj\Debug\WebService.csprojAssemblyReference.cache
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - 2-Fall\IPT\Lectures\Week10\ADO.Net Codes\Code2\Week10_Example2\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - 2-Fall\IPT\Lectures\Week10\ADO.Net Codes\Code2\Week10_Example2\WebService\obj\Debug\WebService.dll
+C:\Users\mfazal\OneDrive\Teaching\FAST\2019 - 2-Fall\IPT\Lectures\Week10\ADO.Net Codes\Code2\Week10_Example2\WebService\obj\Debug\WebService.pdb
+C:\Users\Bilal\Desktop\IPT Lab 21st Nov\ADO.Net Codes\Code2\Week10_Example2\WebService\bin\WebService.dll.config
+C:\Users\Bilal\Desktop\IPT Lab 21st Nov\ADO.Net Codes\Code2\Week10_Example2\WebService\bin\WebService.dll
+C:\Users\Bilal\Desktop\IPT Lab 21st Nov\ADO.Net Codes\Code2\Week10_Example2\WebService\bin\WebService.pdb
+C:\Users\Bilal\Desktop\IPT Lab 21st Nov\ADO.Net Codes\Code2\Week10_Example2\WebService\obj\Debug\WebService.csproj.AssemblyReference.cache
+C:\Users\Bilal\Desktop\IPT Lab 21st Nov\ADO.Net Codes\Code2\Week10_Example2\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\Desktop\IPT Lab 21st Nov\ADO.Net Codes\Code2\Week10_Example2\WebService\obj\Debug\WebService.dll
+C:\Users\Bilal\Desktop\IPT Lab 21st Nov\ADO.Net Codes\Code2\Week10_Example2\WebService\obj\Debug\WebService.pdb
