@@ -1,0 +1,13 @@
+Skim (don't read In-depth) the attached whitepaper in 10-15 minutes only. Now complete the following as handwritten assignment:
+
+01) Briefly write in your own words about TWO cloud security chapter topics we have covered in the class that Google infrastructure implements. [20 minutes activity]
+
+02) How Google infrastructure (GI) provides DoS protection? [10 minutes activity]
+
+03) How is Intrusion detection implemented in GI? How is this related to techniques outlined in textbook chapter # 8 sections 8.4 and 8.5? [30 minutes activity]
+
+Submission:
+Handwritten to me personally. 
+IMPORTANT: 
+The attached video is not part of the assignment # 2. See if you are interested in certification/career in cloud.
+NK.
