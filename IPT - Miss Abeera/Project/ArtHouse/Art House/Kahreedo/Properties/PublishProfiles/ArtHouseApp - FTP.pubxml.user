@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA/ZsoUKZ3X0K2owxV5n4xigAAAAACAAAAAAAQZgAAAAEAACAAAAC7r27PiFgoU5buxraI74dE/OncRXqITh+jH73Oc6oxFQAAAAAOgAAAAAIAACAAAACR/FNAjZa1EmdGqcIi81PAvqlKKGDmuLjxnFSRrPt55YAAAACeFfDe/tbE6+tIn/Nw+0zjJuGVNixwN2IEVfaoDmryB/Qg2P/PA7Ovttcz4IfXCU1jCMeGlETf3ND9qlziqmQfpPtlFj9YtHvVXkOQJKPb11fdIumJAYh/ERLb8VQP4oVFI3W6MEbWDGzJAaYlOaNKVWwlpwiCYfag/juN4Grg5EAAAAD8k0OjlVDNO2KgHiE7JmwhNRIF7QzRZOwkTXcpKFf3Nb8T6MeF8L+TY3F5NWcfH090hG6E6JKFB/VkTlZ3EpEk</EncryptedPassword>
+    <_PublishTargetUrl>ftps://waws-prod-blu-343.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Content/css/bootstrap.css">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/css/font-awesome.css">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/css/jquery.simpleLens.css">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/css/jquery.smartmenus.bootstrap.css">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/css/nouislider.css">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/css/sequence-theme.modern-slide-in.css">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/css/slick.css">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/css/style.css">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/css/theme-color/bridge-theme.css">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/css/theme-color/dark-red-theme.css">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/css/theme-color/default-theme.css">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/css/theme-color/green-theme.css">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/css/theme-color/lite-blue-theme.css">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/css/theme-color/orange-theme.css">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/css/theme-color/pink-theme.css">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/css/theme-color/purple-theme.css">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/css/theme-color/red-theme.css">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/css/theme-color/yellow-theme.css">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/fonts/fontawesome-webfont.eot">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/fonts/fontawesome-webfont.svg">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/fonts/fontawesome-webfont.ttf">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/fonts/fontawesome-webfont.woff">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/fonts/fontawesome-webfont.woff2">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/fonts/FontAwesome.otf">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/close-icon.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/electronics/electronic-1.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/electronics/electronic-2.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/electronics/electronic-3.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/electronics/electronic-4.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/electronics/electronic-5.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/electronics/electronic-6.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/electronics/electronic-7.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/electronics/electronic-8.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/fashion-banner.jpg">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/fashion/1.jpg">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/fashion/2.jpg">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/fashion/3.jpg">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/fashion/4.jpg">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/fashion/5.jpg">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/fashion/fashion-header-bg-8.jpg">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/flag/english.jpg">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/flag/french.jpg">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/logo.jpg">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/man-small-1.jpg">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/man/polo-shirt-1.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/man/polo-shirt-2.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/man/polo-shirt-3.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/man/polo-shirt-4.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/man/polo-shirt-5.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/man/polo-shirt-6.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/man/t-shirt-1.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/paypal.jpg">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/promo-banner-1.jpg">
+      <publishTime>12/03/2023 20:30:35</publishTime>
+    </File>
+    <File Include="Content/img/promo-banner-2.jpg">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/promo-banner-3.jpg">
+      <publishTime>12/03/2023 20:30:35</publishTime>
+    </File>
+    <File Include="Content/img/promo-banner-4.jpg">
+      <publishTime>12/03/2023 20:30:35</publishTime>
+    </File>
+    <File Include="Content/img/promo-banner-5.jpg">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/slider/1.jpg">
+      <publishTime>12/02/2023 23:37:14</publishTime>
+    </File>
+    <File Include="Content/img/slider/2.jpg">
+      <publishTime>12/02/2023 23:37:34</publishTime>
+    </File>
+    <File Include="Content/img/slider/3.jpg">
+      <publishTime>12/02/2023 23:38:00</publishTime>
+    </File>
+    <File Include="Content/img/slider/4.jpg">
+      <publishTime>12/02/2023 23:38:45</publishTime>
+    </File>
+    <File Include="Content/img/slider/5.jpg">
+      <publishTime>12/02/2023 23:36:51</publishTime>
+    </File>
+    <File Include="Content/img/slider/ajax-loader.gif">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/slider/bt-next%402x.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/slider/bt-next.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/slider/bt-prev%402x.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/slider/bt-prev.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/sports/sport-1.png">
+      <publishTime>12/03/2023 20:30:35</publishTime>
+    </File>
+    <File Include="Content/img/sports/sport-2.png">
+      <publishTime>12/03/2023 20:30:35</publishTime>
+    </File>
+    <File Include="Content/img/sports/sport-3.png">
+      <publishTime>12/03/2023 20:30:35</publishTime>
+    </File>
+    <File Include="Content/img/sports/sport-4.png">
+      <publishTime>12/03/2023 20:30:35</publishTime>
+    </File>
+    <File Include="Content/img/sports/sport-5.png">
+      <publishTime>12/03/2023 20:30:35</publishTime>
+    </File>
+    <File Include="Content/img/sports/sport-6.png">
+      <publishTime>12/03/2023 20:30:35</publishTime>
+    </File>
+    <File Include="Content/img/sports/sport-7.png">
+      <publishTime>12/03/2023 20:30:35</publishTime>
+    </File>
+    <File Include="Content/img/sports/sport-8.png">
+      <publishTime>12/03/2023 20:30:35</publishTime>
+    </File>
+    <File Include="Content/img/view-slider/large/polo-shirt-1.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/view-slider/large/polo-shirt-2.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/view-slider/large/polo-shirt-3.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/view-slider/large/polo-shirt-4.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/view-slider/loading.gif">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/view-slider/medium/polo-shirt-1.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/view-slider/medium/polo-shirt-2.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/view-slider/medium/polo-shirt-3.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/view-slider/medium/polo-shirt-4.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/view-slider/thumbnail/polo-shirt-1.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/view-slider/thumbnail/polo-shirt-2.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/view-slider/thumbnail/polo-shirt-3.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/view-slider/thumbnail/polo-shirt-4.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/woman-small-1.jpg">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/woman-small-2.jpg">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/women/girl-1.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/women/girl-2.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/women/girl-3.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/women/girl-4.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/women/girl-5.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/women/girl-6.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/img/women/girl-7.png">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/Intellisence/css/jquery-ui.min.css">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/Intellisence/js/jquery-1.10.2.min.js">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/Intellisence/js/jquery-ui.min.js">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/js/bootstrap.js">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/js/custom.js">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/js/jquery.min.js">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/js/jquery.simpleGallery.js">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/js/jquery.simpleLens.js">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/js/jquery.smartmenus.bootstrap.js">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/js/jquery.smartmenus.js">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/js/jquery.unobtrusive-ajax.min.js">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/js/nouislider.js">
+      <publishTime>12/02/2023 14:58:53</publishTime>
+    </File>
+    <File Include="Content/js/sequence-theme.modern-slide-in.js">
+      <publishTime>12/02/2023 14:58:53</publishTime>
+    </File>
+    <File Include="Content/js/sequence.js">
+      <publishTime>12/02/2023 14:58:53</publishTime>
+    </File>
+    <File Include="Content/js/slick.js">
+      <publishTime>12/02/2023 14:58:53</publishTime>
+    </File>
+    <File Include="Content/PagedList.css">
+      <publishTime>12/02/2023 14:58:52</publishTime>
+    </File>
+    <File Include="Content/scss/base/_base.scss">
+      <publishTime>12/02/2023 14:58:53</publishTime>
+    </File>
+    <File Include="Content/scss/base/_mixins.scss">
+      <publishTime>12/02/2023 14:58:53</publishTime>
+    </File>
+    <File Include="Content/scss/base/_variables.scss">
+      <publishTime>12/02/2023 14:58:53</publishTime>
+    </File>
+    <File Include="Content/scss/layouts/_footer.scss">
+      <publishTime>12/02/2023 14:58:53</publishTime>
+    </File>
+    <File Include="Content/scss/layouts/_header.scss">
+      <publishTime>12/02/2023 14:58:53</publishTime>
+    </File>
+    <File Include="Content/scss/layouts/_nav.scss">
+      <publishTime>12/02/2023 14:58:53</publishTime>
+    </File>
+    <File Include="Content/scss/modules/_buttons.scss">
+      <publishTime>12/02/2023 14:58:53</publishTime>
+    </File>
+    <File Include="Content/scss/modules/_responsive.scss">
+      <publishTime>12/02/2023 14:58:53</publishTime>
+    </File>
+    <File Include="Content/scss/modules/_sections.scss">
+      <publishTime>12/02/2023 14:58:53</publishTime>
+    </File>
+    <File Include="Content/scss/modules/_typography.scss">
+      <publishTime>12/02/2023 14:58:53</publishTime>
+    </File>
+    <File Include="Content/scss/style.scss">
+      <publishTime>12/05/2023 01:03:26</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

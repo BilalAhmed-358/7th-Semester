@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\Bilal\Desktop\E-Commerce-Website\Client Side\Art House\Kahreedo\obj\Debug\Package\PackageTmp" />
+  <setAcl path="C:\Users\Bilal\Desktop\E-Commerce-Website\Client Side\Art House\Kahreedo\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\Bilal\Desktop\E-Commerce-Website\Client Side\Art House\Kahreedo\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
